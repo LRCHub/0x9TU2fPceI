@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "おさるのジョージ",
+  "base_artist": "岩崎良美",
+  "createdAt": "2026-04-05T13:48:20.683538Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おさるのジョージ カラオケ - Curious George KARAOKE",
+      "artist": "YOSHIMI IWASAKI",
+      "has_synced": true,
+      "path": "select/01_おさるのジョージ_カラオケ_-_Curious_George_KARAOKE_YOSHIMI_IWASAKI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おさるのジョージ",
+      "artist": "Yoshimi Iwasaki",
+      "has_synced": true,
+      "path": "select/02_おさるのジョージ_Yoshimi_Iwasaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おさるのジョージ",
+      "artist": "岩崎 良美",
+      "has_synced": false,
+      "path": "select/pl_01_おさるのジョージ_岩崎_良美.txt"
+    }
+  ]
+}
